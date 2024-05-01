@@ -4,7 +4,7 @@ Uses noargs front end\
 Enter word to be guessed with newline character at end\
 Enter 1 letter at a time (case sensitive)\
 6 strikes at most\
-Does not keep track of guessed characters\
+Does not keep track of guessed characters
 
 Registers:\
  $1 --> input\
